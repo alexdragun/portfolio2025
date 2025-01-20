@@ -45,7 +45,7 @@ const skills = ref([
       .skill {
         @apply text-center p-6 bg-[var(--grey)] border-b-2 hover:border-[var(--cyan)] duration-300;
         img {
-          @apply w-fit h-12 mx-auto;
+          @apply w-full max-w-12 h-12 object-contain mx-auto;
         }
         p {
           @apply mt-4;
