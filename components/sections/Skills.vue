@@ -26,7 +26,7 @@ const skills = ref([
 <template>
   <section class="container-custom" id="skills">
     <div class="container-custom__inner">
-      <h2 class="line mb-6">Skills</h2>
+      <h2 class="text-4xl line mb-6">Skills</h2>
       <div class="skills">
         <div class="skill" v-for="(skill, index) in skills" :key="index">
           <img :src="skill.imgPath" :alt="skill.label" />

@@ -22,7 +22,7 @@ const publications = ref([
 <template>
   <section class="container-custom" id="publications">
     <div class="container-custom__inner">
-      <h2 class="line mb-6">Publications</h2>
+      <h2 class="text-4xl line mb-6">Publications</h2>
       <div class="publications">
         <a
           class="publication"

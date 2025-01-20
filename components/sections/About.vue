@@ -3,7 +3,7 @@
 <template>
   <section class="container-custom" id="aboutme">
     <div class="container-custom__inner">
-      <h2 class="line mb-6">About me</h2>
+      <h2 class="text-4xl line mb-6">About me</h2>
       <p>
         Experienced Front-End Developer with 5+ years of experience in creating
         and implementing web solutions that improve the user experience.

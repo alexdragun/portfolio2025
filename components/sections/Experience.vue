@@ -60,7 +60,7 @@ const calculateDuration = (start: string | Date, end: string | Date | null) => {
 <template>
   <section class="container-custom" id="experience">
     <div class="container-custom__inner">
-      <h2 class="line mb-6">Experience</h2>
+      <h2 class="text-4xl line mb-6">Experience</h2>
       <div class="mt-16">
         <div
           class="experience"

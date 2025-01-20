@@ -17,17 +17,3 @@ h5 {
     }
   }
 }
-
-h1 {
-  font-size: 3.75rem !important;
-  line-height: 1;
-  @media (min-width: 1024px) {
-    font-size: 6rem !important;
-    line-height: 1;
-  }
-}
-
-h2 {
-  font-size: 2.25rem !important;
-  line-height: 2.5rem;
-}

@@ -5,7 +5,7 @@
     <div class="container-custom__inner">
       <div>
         <p class="mb-7 lg:mb-14 text-4xl text-[var(--cyan)]">Hi, I am</p>
-        <h1 class="mb-2">Alex Dragun</h1>
+        <h1 class="text-6xl lg:text-8xl mb-2">Alex Dragun</h1>
         <p class="text-2xl">Front-end developer</p>
       </div>
       <img class="profile" src="/images/profile.webp" alt="profile" />

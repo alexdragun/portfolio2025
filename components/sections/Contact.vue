@@ -74,7 +74,7 @@ const submitForm = async () => {
 <template>
   <section class="container-custom" id="contactme">
     <div class="container-custom__inner">
-      <h2 class="line mb-6">Contact me</h2>
+      <h2 class="text-4xl line mb-6">Contact me</h2>
 
       <form @submit.prevent="submitForm">
         <Input
