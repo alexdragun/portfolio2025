@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+:root {
+  --primary-font: "Varela Round", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  &.line {
+    @apply flex items-center;
+    &::before {
+      content: "";
+      @apply block w-10 h-[2px] bg-[var(--cyan)] mr-4;
+    }
+  }
+}
+
+h1 {
+  @apply text-6xl lg:text-8xl;
+}
+
+h2 {
+  @apply text-4xl;
+}

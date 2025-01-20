@@ -1,0 +1,22 @@
+@use "./typography.scss";
+@use "./colors.scss";
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: var(--primary-font);
+  @apply bg-[var(--background)];
+}
+
+.container-custom {
+  @apply px-5 py-16;
+  &__inner {
+    @apply max-w-6xl mx-auto;
+  }
+}
