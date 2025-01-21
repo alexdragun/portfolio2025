@@ -7,7 +7,7 @@ const experiences = ref([
     company: "CONET Hrvatska",
     companyImage:
       "https://media.licdn.com/dms/image/v2/C4E0BAQH-VR5O5jwfjQ/company-logo_200_200/company-logo_200_200/0/1630648060321?e=1745452800&v=beta&t=MnnbZtuknrpWrwpw70x5JmBQRdKus_IiaRXDZxjA84Q",
-    startDate: new Date("11.15.2023"),
+    startDate: new Date("11/15/2023"),
     endDate: null,
     description:
       "• Implement advanced features, reusable components, and global state management using Pinia <br>• Reviewing code to ensure it meets the projects coding standards<br>• Ensure responsiveness and device compatibility<br>• Enhance application performance and security<br>• Stay current with latest frontend technologies",
@@ -17,8 +17,8 @@ const experiences = ref([
     company: "Barrage",
     companyImage:
       "https://media.licdn.com/dms/image/v2/C560BAQEPISvUtxzB6Q/company-logo_200_200/company-logo_200_200/0/1630571816450/barragehq_logo?e=1745452800&v=beta&t=nj5NXrXITk_EFlzWH88hXhLlhBiJ9Mpwsug-5emS1wE",
-    startDate: new Date("09.01.2020"),
-    endDate: new Date("10.01.2023"),
+    startDate: new Date("09/01/2020"),
+    endDate: new Date("10/01/2023"),
     description:
       "• Develop web applications using Vue and Nuxt<br>• Implement advanced features, reusable components, and global state management using Vuex/Pinia<br>• Reviewing code to ensure it meets the projects coding standards<br>• Collaborate across different teams to develop intuitive and user-friendly interfaces<br>• Ensure responsiveness and device compatibility<br>• Enhance application performance<br>• Stay current with latest frontend technologies<br>• Mentoring junior developers",
   },
@@ -27,8 +27,8 @@ const experiences = ref([
     company: "Gauss Development",
     companyImage:
       "https://media.licdn.com/dms/image/v2/D4D0BAQGewE5La8K-Pg/company-logo_200_200/company-logo_200_200/0/1708505336589/gauss_development_logo?e=1745452800&v=beta&t=wZeOxtTqV9NTJtbWbhrSHyG7FPSayL0tCv3ghNfOxhs",
-    startDate: new Date("10.01.2018"),
-    endDate: new Date("09.01.2020"),
+    startDate: new Date("10/01/2018"),
+    endDate: new Date("09/01/2020"),
     description:
       "• Collaborate with the design team to develop intuitive and user-friendly interfaces<br>• Write clean and efficient code using HTML, CSS, JavaScript and other frontend technologies<br>• Ensure cross-browser compatibility and responsiveness of web applications<br>• Optimize web application performance for maximum speed and scalability<br>• Troubleshoot and debug frontend issues as they arise<br>• Stay up-to-date with emerging trends and technologies in frontend development",
   },

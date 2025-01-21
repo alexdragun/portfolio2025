@@ -4,14 +4,14 @@ import moment from "moment";
 const publications = ref([
   {
     title: "The importance of testing legacy code: try unit testing",
-    date: new Date("05.19.2023"),
+    date: new Date("05/19/2023"),
     description:
       "Are you struggling with a legacy project that's swarming with bugs? Let us give you an insight into how adding unit tests can make sure these errors bother you no more.",
     url: "https://www.barrage.net/blog/technology/the-importance-of-testing-legacy-code-try-unit-testing",
   },
   {
     title: "Top 8 SASS mixins to speed up your frontend development process",
-    date: new Date("04.06.2021"),
+    date: new Date("04/06/2021"),
     description:
       "One of the challenges in a developer's life is speeding up and automating the development process while keeping high-quality standards. A great solution for front-end developers using SASS is its mixin capability.",
     url: "https://www.barrage.net/blog/technology/top-8-sass-mixins",
